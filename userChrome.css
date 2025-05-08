@@ -1,0 +1,3 @@
+#tabbrowser-tabs .tabbrowser-tab[pinned] .tab-close-button {
+	display: none !important;
+}
